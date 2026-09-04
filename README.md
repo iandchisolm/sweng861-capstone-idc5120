@@ -7,4 +7,5 @@ idc5120@psu.edu
 
 #### Description
 
-The Professor Office Hours Meeting Scheduler is a system based on the web which enables professors to define their office-hour availability and for students to see it and book the available time slots; when an appointment has been booked the system links with Google Calendar to set up a calendar event and send an invitation to both the professor and the student. 
+Campus Office Hours Scheduler is a web-based appointment scheduling system that allows professors to set their office-hour availability and students to book available time slots. The system manages appointments and integrates with Google Calendar to help professors and students keep track of their scheduled meetings.
+
